@@ -1,0 +1,17 @@
+# Игнорировать виртуальную среду
+.venv/
+
+# Игнорировать данные
+data/
+
+# Игнорировать временные и кэш-файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ZIP файлы
+*.zip
